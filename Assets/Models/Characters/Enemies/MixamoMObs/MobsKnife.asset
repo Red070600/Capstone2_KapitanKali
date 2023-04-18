@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f91feee79ca41984e91c328c1edabf1b, type: 3}
+  m_Name: MobsKnife
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 0}
+  itemName: 
+  modelPrefab: {fileID: 5781652629182826361, guid: 4b5f39bf59249664cacdf82e609ef698,
+    type: 3}
+  isUnarmed: 0
+  right_hand_idle: 
+  left_hand_idle: 
+  SB_Attack_1: 
+  SB_Attack_2: 
+  SB_Attack_3: 
+  baseStamina: 0
+  lightAttackMultiplier: 0
+  heavyAttackMultiplier: 0

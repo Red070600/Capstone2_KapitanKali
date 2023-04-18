@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f91feee79ca41984e91c328c1edabf1b, type: 3}
+  m_Name: Dagger
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: 85b44616298a4034faa07f1c9a58466a, type: 3}
+  itemName: Dagger
+  modelPrefab: {fileID: 4260631281216737659, guid: c1b9141afdf86e94987bcb4d82b5a4a8,
+    type: 3}
+  isUnarmed: 0
+  right_hand_idle: 
+  left_hand_idle: 
+  LightAttack_1: 
+  LightAttack_2: 
+  HeavyAttack_1: 
+  baseStamina: 0
+  lightAttackMultiplier: 0
+  heavyAttackMultiplier: 0

@@ -1,0 +1,1426 @@
+fileFormatVersion: 2
+guid: 84b39883ae5126a49aaf9e415b4953b8
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 1
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths:
+    - game_rig
+    - Kali.001
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: game_rig|Armature|0_T-PoseG
+      takeName: game_rig|Armature|0_T-PoseG
+      internalID: 3878057152455400623
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: game_rig|Armature|mixamo.com|Layer0G
+      takeName: game_rig|Armature|mixamo.com|Layer0G
+      internalID: 5286254377735475749
+      firstFrame: 0
+      lastFrame: 71
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: game_rig|Kali_DamageG
+      takeName: game_rig|Kali_DamageG
+      internalID: 5029934670279920034
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: game_rig|Kali_DBDSinawali1G
+      takeName: game_rig|Kali_DBDSinawali1G
+      internalID: 701940713581659480
+      firstFrame: 0
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: game_rig|Kali_DBDSinawali2StanceG
+      takeName: game_rig|Kali_DBDSinawali2StanceG
+      internalID: -3770550280823838446
+      firstFrame: 0
+      lastFrame: 160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: game_rig|Kali_DBDSinawali3FootworkG
+      takeName: game_rig|Kali_DBDSinawali3FootworkG
+      internalID: 3102105878618317697
+      firstFrame: 0
+      lastFrame: 170
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: game_rig|Kali_DBSSinawali1G
+      takeName: game_rig|Kali_DBSSinawali1G
+      internalID: 2416030783421526618
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: game_rig|Kali_DBSSinawali2StanceG
+      takeName: game_rig|Kali_DBSSinawali2StanceG
+      internalID: 2776999650724774820
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: game_rig|Kali_DBSSinawali3FootworkG
+      takeName: game_rig|Kali_DBSSinawali3FootworkG
+      internalID: -3347165726849522402
+      firstFrame: 0
+      lastFrame: 130
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: game_rig|Kali_DeathG
+      takeName: game_rig|Kali_DeathG
+      internalID: 3145432697899913950
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: game_rig|Kali_EDBMForm1G
+      takeName: game_rig|Kali_EDBMForm1G
+      internalID: 404326611090178698
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: game_rig|Kali_EDBMForm2G
+      takeName: game_rig|Kali_EDBMForm2G
+      internalID: 4359449830883151608
+      firstFrame: 0
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: game_rig|Kali_EDBMForm3G
+      takeName: game_rig|Kali_EDBMForm3G
+      internalID: 2847258576593658942
+      firstFrame: 0
+      lastFrame: 55
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: game_rig
+        weight: 1
+      - path: game_rig/DEF-pelvis.L
+        weight: 1
+      - path: game_rig/DEF-pelvis.L/DEF-thigh.L
+        weight: 1
+      - path: game_rig/DEF-pelvis.L/DEF-thigh.L/DEF-thigh.L.001
+        weight: 1
+      - path: game_rig/DEF-pelvis.L/DEF-thigh.L/DEF-thigh.L.001/DEF-shin.L
+        weight: 1
+      - path: game_rig/DEF-pelvis.L/DEF-thigh.L/DEF-thigh.L.001/DEF-shin.L/DEF-shin.L.001
+        weight: 1
+      - path: game_rig/DEF-pelvis.L/DEF-thigh.L/DEF-thigh.L.001/DEF-shin.L/DEF-shin.L.001/DEF-foot.L
+        weight: 1
+      - path: game_rig/DEF-pelvis.L/DEF-thigh.L/DEF-thigh.L.001/DEF-shin.L/DEF-shin.L.001/DEF-foot.L/DEF-toe.L
+        weight: 1
+      - path: game_rig/DEF-pelvis.L/DEF-thigh.L/DEF-thigh.L.001/DEF-shin.L/DEF-shin.L.001/DEF-foot.L/DEF-toe.L/DEF-toe.L_end
+        weight: 0
+      - path: game_rig/DEF-pelvis.R
+        weight: 1
+      - path: game_rig/DEF-pelvis.R/DEF-thigh.R
+        weight: 1
+      - path: game_rig/DEF-pelvis.R/DEF-thigh.R/DEF-thigh.R.001
+        weight: 1
+      - path: game_rig/DEF-pelvis.R/DEF-thigh.R/DEF-thigh.R.001/DEF-shin.R
+        weight: 1
+      - path: game_rig/DEF-pelvis.R/DEF-thigh.R/DEF-thigh.R.001/DEF-shin.R/DEF-shin.R.001
+        weight: 1
+      - path: game_rig/DEF-pelvis.R/DEF-thigh.R/DEF-thigh.R.001/DEF-shin.R/DEF-shin.R.001/DEF-foot.R
+        weight: 1
+      - path: game_rig/DEF-pelvis.R/DEF-thigh.R/DEF-thigh.R.001/DEF-shin.R/DEF-shin.R.001/DEF-foot.R/DEF-toe.R
+        weight: 1
+      - path: game_rig/DEF-pelvis.R/DEF-thigh.R/DEF-thigh.R.001/DEF-shin.R/DEF-shin.R.001/DEF-foot.R/DEF-toe.R/DEF-toe.R_end
+        weight: 0
+      - path: game_rig/DEF-spine
+        weight: 1
+      - path: game_rig/DEF-spine/DEF-spine.001
+        weight: 1
+      - path: game_rig/DEF-spine/DEF-spine.001/DEF-spine.002
+        weight: 1
+      - path: game_rig/DEF-spine/DEF-spine.001/DEF-spine.002/DEF-spine.003
+        weight: 1
+      - path: game_rig/DEF-spine/DEF-spine.001/DEF-spine.002/DEF-spine.003/DEF-shoulder.L
+        weight: 1
+      - path: game_rig/DEF-spine/DEF-spine.001/DEF-spine.002/DEF-spine.003/DEF-shoulder.L/DEF-upper_arm.L
+        weight: 1
+      - path: game_rig/DEF-spine/DEF-spine.001/DEF-spine.002/DEF-spine.003/DEF-shoulder.L/DEF-upper_arm.L/DEF-upper_arm.L.001
+        weight: 1
+      - path: game_rig/DEF-spine/DEF-spine.001/DEF-spine.002/DEF-spine.003/DEF-shoulder.L/DEF-upper_arm.L/DEF-upper_arm.L.001/DEF-forearm.L
+        weight: 1
+      - path: game_rig/DEF-spine/DEF-spine.001/DEF-spine.002/DEF-spine.003/DEF-shoulder.L/DEF-upper_arm.L/DEF-upper_arm.L.001/DEF-forearm.L/DEF-forearm.L.001
+        weight: 1
+      - path: game_rig/DEF-spine/DEF-spine.001/DEF-spine.002/DEF-spine.003/DEF-shoulder.L/DEF-upper_arm.L/DEF-upper_arm.L.001/DEF-forearm.L/DEF-forearm.L.001/DEF-hand.L
+        weight: 1
+      - path: game_rig/DEF-spine/DEF-spine.001/DEF-spine.002/DEF-spine.003/DEF-shoulder.L/DEF-upper_arm.L/DEF-upper_arm.L.001/DEF-forearm.L/DEF-forearm.L.001/DEF-hand.L/DEF-f_middle.01.L
+        weight: 1
+      - path: game_rig/DEF-spine/DEF-spine.001/DEF-spine.002/DEF-spine.003/DEF-shoulder.L/DEF-upper_arm.L/DEF-upper_arm.L.001/DEF-forearm.L/DEF-forearm.L.001/DEF-hand.L/DEF-f_middle.01.L/DEF-f_middle.02.L
+        weight: 1
+      - path: game_rig/DEF-spine/DEF-spine.001/DEF-spine.002/DEF-spine.003/DEF-shoulder.L/DEF-upper_arm.L/DEF-upper_arm.L.001/DEF-forearm.L/DEF-forearm.L.001/DEF-hand.L/DEF-f_middle.01.L/DEF-f_middle.02.L/DEF-f_middle.03.L
+        weight: 1
+      - path: game_rig/DEF-spine/DEF-spine.001/DEF-spine.002/DEF-spine.003/DEF-shoulder.L/DEF-upper_arm.L/DEF-upper_arm.L.001/DEF-forearm.L/DEF-forearm.L.001/DEF-hand.L/DEF-f_middle.01.L/DEF-f_middle.02.L/DEF-f_middle.03.L/DEF-f_middle.03.L_end
+        weight: 0
+      - path: game_rig/DEF-spine/DEF-spine.001/DEF-spine.002/DEF-spine.003/DEF-shoulder.L/DEF-upper_arm.L/DEF-upper_arm.L.001/DEF-forearm.L/DEF-forearm.L.001/DEF-hand.L/DEF-thumb.01.L
+        weight: 1
+      - path: game_rig/DEF-spine/DEF-spine.001/DEF-spine.002/DEF-spine.003/DEF-shoulder.L/DEF-upper_arm.L/DEF-upper_arm.L.001/DEF-forearm.L/DEF-forearm.L.001/DEF-hand.L/DEF-thumb.01.L/DEF-thumb.02.L
+        weight: 1
+      - path: game_rig/DEF-spine/DEF-spine.001/DEF-spine.002/DEF-spine.003/DEF-shoulder.L/DEF-upper_arm.L/DEF-upper_arm.L.001/DEF-forearm.L/DEF-forearm.L.001/DEF-hand.L/DEF-thumb.01.L/DEF-thumb.02.L/DEF-thumb.03.L
+        weight: 1
+      - path: game_rig/DEF-spine/DEF-spine.001/DEF-spine.002/DEF-spine.003/DEF-shoulder.L/DEF-upper_arm.L/DEF-upper_arm.L.001/DEF-forearm.L/DEF-forearm.L.001/DEF-hand.L/DEF-thumb.01.L/DEF-thumb.02.L/DEF-thumb.03.L/DEF-thumb.03.L_end
+        weight: 0
+      - path: game_rig/DEF-spine/DEF-spine.001/DEF-spine.002/DEF-spine.003/DEF-shoulder.R
+        weight: 1
+      - path: game_rig/DEF-spine/DEF-spine.001/DEF-spine.002/DEF-spine.003/DEF-shoulder.R/DEF-upper_arm.R
+        weight: 1
+      - path: game_rig/DEF-spine/DEF-spine.001/DEF-spine.002/DEF-spine.003/DEF-shoulder.R/DEF-upper_arm.R/DEF-upper_arm.R.001
+        weight: 1
+      - path: game_rig/DEF-spine/DEF-spine.001/DEF-spine.002/DEF-spine.003/DEF-shoulder.R/DEF-upper_arm.R/DEF-upper_arm.R.001/DEF-forearm.R
+        weight: 1
+      - path: game_rig/DEF-spine/DEF-spine.001/DEF-spine.002/DEF-spine.003/DEF-shoulder.R/DEF-upper_arm.R/DEF-upper_arm.R.001/DEF-forearm.R/DEF-forearm.R.001
+        weight: 1
+      - path: game_rig/DEF-spine/DEF-spine.001/DEF-spine.002/DEF-spine.003/DEF-shoulder.R/DEF-upper_arm.R/DEF-upper_arm.R.001/DEF-forearm.R/DEF-forearm.R.001/DEF-hand.R
+        weight: 1
+      - path: game_rig/DEF-spine/DEF-spine.001/DEF-spine.002/DEF-spine.003/DEF-shoulder.R/DEF-upper_arm.R/DEF-upper_arm.R.001/DEF-forearm.R/DEF-forearm.R.001/DEF-hand.R/DEF-f_middle.01.R
+        weight: 1
+      - path: game_rig/DEF-spine/DEF-spine.001/DEF-spine.002/DEF-spine.003/DEF-shoulder.R/DEF-upper_arm.R/DEF-upper_arm.R.001/DEF-forearm.R/DEF-forearm.R.001/DEF-hand.R/DEF-f_middle.01.R/DEF-f_middle.02.R
+        weight: 1
+      - path: game_rig/DEF-spine/DEF-spine.001/DEF-spine.002/DEF-spine.003/DEF-shoulder.R/DEF-upper_arm.R/DEF-upper_arm.R.001/DEF-forearm.R/DEF-forearm.R.001/DEF-hand.R/DEF-f_middle.01.R/DEF-f_middle.02.R/DEF-f_middle.03.R
+        weight: 1
+      - path: game_rig/DEF-spine/DEF-spine.001/DEF-spine.002/DEF-spine.003/DEF-shoulder.R/DEF-upper_arm.R/DEF-upper_arm.R.001/DEF-forearm.R/DEF-forearm.R.001/DEF-hand.R/DEF-f_middle.01.R/DEF-f_middle.02.R/DEF-f_middle.03.R/DEF-f_middle.03.R_end
+        weight: 0
+      - path: game_rig/DEF-spine/DEF-spine.001/DEF-spine.002/DEF-spine.003/DEF-shoulder.R/DEF-upper_arm.R/DEF-upper_arm.R.001/DEF-forearm.R/DEF-forearm.R.001/DEF-hand.R/DEF-thumb.01.R
+        weight: 1
+      - path: game_rig/DEF-spine/DEF-spine.001/DEF-spine.002/DEF-spine.003/DEF-shoulder.R/DEF-upper_arm.R/DEF-upper_arm.R.001/DEF-forearm.R/DEF-forearm.R.001/DEF-hand.R/DEF-thumb.01.R/DEF-thumb.02.R
+        weight: 1
+      - path: game_rig/DEF-spine/DEF-spine.001/DEF-spine.002/DEF-spine.003/DEF-shoulder.R/DEF-upper_arm.R/DEF-upper_arm.R.001/DEF-forearm.R/DEF-forearm.R.001/DEF-hand.R/DEF-thumb.01.R/DEF-thumb.02.R/DEF-thumb.03.R
+        weight: 1
+      - path: game_rig/DEF-spine/DEF-spine.001/DEF-spine.002/DEF-spine.003/DEF-shoulder.R/DEF-upper_arm.R/DEF-upper_arm.R.001/DEF-forearm.R/DEF-forearm.R.001/DEF-hand.R/DEF-thumb.01.R/DEF-thumb.02.R/DEF-thumb.03.R/DEF-thumb.03.R_end
+        weight: 0
+      - path: game_rig/DEF-spine/DEF-spine.001/DEF-spine.002/DEF-spine.003/DEF-spine.004
+        weight: 1
+      - path: game_rig/DEF-spine/DEF-spine.001/DEF-spine.002/DEF-spine.003/DEF-spine.004/DEF-spine.005
+        weight: 1
+      - path: game_rig/DEF-spine/DEF-spine.001/DEF-spine.002/DEF-spine.003/DEF-spine.004/DEF-spine.005/DEF-spine.006
+        weight: 0
+      - path: game_rig/DEF-spine/DEF-spine.001/DEF-spine.002/DEF-spine.003/DEF-spine.004/DEF-spine.005/DEF-spine.006/DEF-spine.006_end
+        weight: 0
+      - path: Kali.001
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: game_rig|Kali_EDBMForm4G
+      takeName: game_rig|Kali_EDBMForm4G
+      internalID: 7748824600411118782
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: game_rig|Kali_EDBMForm5G
+      takeName: game_rig|Kali_EDBMForm5G
+      internalID: -6372313316095147088
+      firstFrame: 0
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: game_rig|Kali_EDBMForm6G
+      takeName: game_rig|Kali_EDBMForm6G
+      internalID: 2741756213594682899
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: game_rig|Kali_IdleG
+      takeName: game_rig|Kali_IdleG
+      internalID: -4309728442408610127
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: game_rig|Kali_PugayG
+      takeName: game_rig|Kali_PugayG
+      internalID: -2378811909295282844
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: game_rig|Kali_RollG
+      takeName: game_rig|Kali_RollG
+      internalID: -8931447396097467173
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 69
+    - serializedVersion: 16
+      name: game_rig|Kali_RunG
+      takeName: game_rig|Kali_RunG
+      internalID: 3015841499240189550
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: game_rig|Kali_SBattack1G
+      takeName: game_rig|Kali_SBattack1G
+      internalID: -6422325988171814822
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: game_rig|Kali_SBattack2G
+      takeName: game_rig|Kali_SBattack2G
+      internalID: -6985277194253787101
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: game_rig|Kali_SBattack3G
+      takeName: game_rig|Kali_SBattack3G
+      internalID: 2132266511400798040
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: game_rig|Kali_SBBS1LTempleG
+      takeName: game_rig|Kali_SBBS1LTempleG
+      internalID: 940032424368328112
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: game_rig|Kali_SBBS2RTempleG
+      takeName: game_rig|Kali_SBBS2RTempleG
+      internalID: -7443731905228347392
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: game_rig|Kali_SBBS3LKneeG
+      takeName: game_rig|Kali_SBBS3LKneeG
+      internalID: -6132163460299200831
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: game_rig|Kali_SBBS4RKneeG
+      takeName: game_rig|Kali_SBBS4RKneeG
+      internalID: -8511952195449414846
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: game_rig|Kali_SBBS5SThrustG
+      takeName: game_rig|Kali_SBBS5SThrustG
+      internalID: -858519248522910083
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: game_rig|Kali_SBBS6LCThrustG
+      takeName: game_rig|Kali_SBBS6LCThrustG
+      internalID: 5512628398917001077
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: game_rig|Kali_SBBS7RCThrustG
+      takeName: game_rig|Kali_SBBS7RCThrustG
+      internalID: -3816482052031004159
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: game_rig|Kali_SBBS8HeadG
+      takeName: game_rig|Kali_SBBS8HeadG
+      internalID: -6637526371920287666
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: game_rig|Kali_WalkG
+      takeName: game_rig|Kali_WalkG
+      internalID: -1967128213558845550
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 0
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: GameKali(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kali.001
+      parentName: GameKali(Clone)
+      position: {x: 0.0000000018626451, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 99.999985, y: 99.999985, z: 100}
+    - name: game_rig
+      parentName: GameKali(Clone)
+      position: {x: 0.010054035, y: 0, z: -0.17091855}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 99.99996, y: 99.99996, z: 100}
+    - name: DEF-spine
+      parentName: game_rig
+      position: {x: -0, y: -0.0010059414, z: 0.018016566}
+      rotation: {x: 0.7904554, y: -0.000000073017986, z: -0.000000094229634, w: 0.61251956}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.9999999}
+    - name: DEF-spine.001
+      parentName: DEF-spine
+      position: {x: -1.4210854e-16, y: 0.0027155892, z: 0}
+      rotation: {x: -0.06447639, y: -3.5527133e-14, z: 0.000000015372377, w: 0.9979192}
+      scale: {x: 0.9999998, y: 1, z: 0.9999999}
+    - name: DEF-spine.002
+      parentName: DEF-spine.001
+      position: {x: -5.3290704e-17, y: 0.0024375932, z: 0}
+      rotation: {x: -0.077464096, y: 0.000000118851105, z: 0.000000009234437, w: 0.99699515}
+      scale: {x: 0.99999994, y: 1.0000002, z: 0.9999999}
+    - name: DEF-spine.003
+      parentName: DEF-spine.002
+      position: {x: -1.0957657e-17, y: 0.0030843066, z: 2.2351741e-10}
+      rotation: {x: 0.0016271101, y: -1.4210856e-14, z: 6.2172494e-15, w: 0.9999987}
+      scale: {x: 0.99999994, y: 0.99999976, z: 0.99999994}
+    - name: DEF-spine.004
+      parentName: DEF-spine.003
+      position: {x: -1.18878725e-17, y: 0.0034355943, z: -2.9802322e-10}
+      rotation: {x: 0.2017377, y: -0.00000011675829, z: -0.000000024049015, w: 0.9794396}
+      scale: {x: 0.9999999, y: 1, z: 0.99999976}
+    - name: DEF-spine.005
+      parentName: DEF-spine.004
+      position: {x: 3.5527135e-16, y: 0.0011803543, z: 4.4703483e-10}
+      rotation: {x: -0.09485745, y: -2.8421713e-14, z: 0.000000022615783, w: 0.9954909}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+    - name: DEF-spine.006
+      parentName: DEF-spine.005
+      position: {x: -0, y: 0.0011185877, z: 4.4703483e-10}
+      rotation: {x: -0.09371197, y: 0.00000011868472, z: 0.000000011171349, w: 0.9955994}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+    - name: DEF-spine.006_end
+      parentName: DEF-spine.006
+      position: {x: -0, y: 0.0035376619, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DEF-shoulder.L
+      parentName: DEF-spine.003
+      position: {x: -0.0003264709, y: 0.002448018, z: 0.001395993}
+      rotation: {x: -0.52899903, y: 0.44658348, z: 0.39574498, w: 0.6034146}
+      scale: {x: 0.99999964, y: 1, z: 1.0000004}
+    - name: DEF-upper_arm.L
+      parentName: DEF-shoulder.L
+      position: {x: 0.000017849561, y: 0.0039395215, z: -0.0010555581}
+      rotation: {x: 0.037043992, y: -0.4908916, z: 0.18821232, w: 0.84984076}
+      scale: {x: 0.9999998, y: 1.0000001, z: 0.99999964}
+    - name: DEF-upper_arm.L.001
+      parentName: DEF-upper_arm.L
+      position: {x: 0.0000000013038516, y: 0.0028257233, z: 2.9802322e-10}
+      rotation: {x: 0.000000007450581, y: 0.00000011920929, z: 0.00000009685755, w: 1}
+      scale: {x: 1.0000001, y: 0.9999996, z: 0.99999994}
+    - name: DEF-forearm.L
+      parentName: DEF-upper_arm.L.001
+      position: {x: 0.0000000026263296, y: 0.0028257214, z: 8.9406965e-10}
+      rotation: {x: 0.004634158, y: 0.0019981854, z: -0.015193627, w: 0.99987185}
+      scale: {x: 1, y: 1.0000002, z: 0.9999999}
+    - name: DEF-forearm.L.001
+      parentName: DEF-forearm.L
+      position: {x: -0.000000004246831, y: 0.0022131037, z: -2.9802322e-10}
+      rotation: {x: 0.00000035762787, y: -0.0000006865552, z: -0.00000042072827, w: 1}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: DEF-hand.L
+      parentName: DEF-forearm.L.001
+      position: {x: -0.0000000012293457, y: 0.002213102, z: 0.0000000035762786}
+      rotation: {x: -0.07487538, y: 0.0054480624, z: 0.07234691, w: 0.99455017}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: DEF-f_middle.01.L
+      parentName: DEF-hand.L
+      position: {x: 0.00022193819, y: 0.0016914331, z: 0.00022351019}
+      rotation: {x: 0.02368863, y: -0.82864994, z: -0.019513095, w: 0.5589251}
+      scale: {x: 1.0000007, y: 1, z: 1.0000001}
+    - name: DEF-f_middle.02.L
+      parentName: DEF-f_middle.01.L
+      position: {x: 2.9802322e-10, y: 0.0007052412, z: -6.3329936e-10}
+      rotation: {x: 0.03792643, y: -0.0016259849, z: 0.005645088, w: 0.9992633}
+      scale: {x: 0.9999996, y: 1, z: 1.0000001}
+    - name: DEF-f_middle.03.L
+      parentName: DEF-f_middle.02.L
+      position: {x: 1.4901161e-10, y: 0.0005252702, z: -7.4505804e-11}
+      rotation: {x: 0.031075142, y: 0.0001972669, z: -0.02654403, w: 0.9991645}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000004}
+    - name: DEF-f_middle.03.L_end
+      parentName: DEF-f_middle.03.L
+      position: {x: -0, y: 0.00040328814, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DEF-thumb.01.L
+      parentName: DEF-hand.L
+      position: {x: -0.00044301405, y: 0.00037162326, z: 0.0005322191}
+      rotation: {x: 0.11883419, y: -0.8834237, z: -0.38182884, w: -0.24422914}
+      scale: {x: 0.9999998, y: 1.0000005, z: 1.0000005}
+    - name: DEF-thumb.02.L
+      parentName: DEF-thumb.01.L
+      position: {x: 0.0000000017136335, y: 0.00058958307, z: -0.000000001490116}
+      rotation: {x: 0.03646864, y: -0.0009902269, z: 0.0017920285, w: 0.9993328}
+      scale: {x: 0.9999999, y: 0.9999998, z: 1}
+    - name: DEF-thumb.03.L
+      parentName: DEF-thumb.02.L
+      position: {x: 0.00000000461936, y: 0.0008818028, z: 0.0000000010430813}
+      rotation: {x: 0.034256067, y: 0.00014292344, z: -0.018098677, w: 0.9992493}
+      scale: {x: 1.0000002, y: 0.9999999, z: 1.0000002}
+    - name: DEF-thumb.03.L_end
+      parentName: DEF-thumb.03.L
+      position: {x: -0, y: 0.00055164716, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DEF-shoulder.R
+      parentName: DEF-spine.003
+      position: {x: 0.00032647094, y: 0.002448018, z: 0.0013959932}
+      rotation: {x: -0.5289989, y: -0.4465837, z: -0.39574492, w: 0.6034146}
+      scale: {x: 0.99999964, y: 1, z: 1.0000004}
+    - name: DEF-upper_arm.R
+      parentName: DEF-shoulder.R
+      position: {x: -0.000017850007, y: 0.00393952, z: -0.001055558}
+      rotation: {x: 0.03704399, y: 0.49089164, z: -0.1882124, w: 0.84984076}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999964}
+    - name: DEF-upper_arm.R.001
+      parentName: DEF-upper_arm.R
+      position: {x: -0.0000000036507843, y: 0.0028257233, z: 1.4901161e-10}
+      rotation: {x: -0.0000000745058, y: -0.000000029802319, z: -0.000000100582824,
+        w: 1}
+      scale: {x: 1.0000001, y: 0.99999964, z: 1}
+    - name: DEF-forearm.R
+      parentName: DEF-upper_arm.R.001
+      position: {x: -0.0000000026077032, y: 0.0028257214, z: 8.1956386e-10}
+      rotation: {x: 0.00463409, y: -0.0019983058, z: 0.015193781, w: 0.9998719}
+      scale: {x: 0.99999994, y: 1.0000004, z: 0.9999998}
+    - name: DEF-forearm.R.001
+      parentName: DEF-forearm.R
+      position: {x: 0.0000000018626451, y: 0.0022131037, z: -2.9802322e-10}
+      rotation: {x: 0.00000038743013, y: 0.0000005942688, z: 0.0000004046824, w: 1}
+      scale: {x: 0.99999976, y: 0.99999994, z: 1.0000001}
+    - name: DEF-hand.R
+      parentName: DEF-forearm.R.001
+      position: {x: 0.0000000012293457, y: 0.002213101, z: 0.0000000037252903}
+      rotation: {x: -0.07487535, y: -0.005448107, z: -0.07234685, w: 0.9945501}
+      scale: {x: 1.0000004, y: 0.9999999, z: 0.99999976}
+    - name: DEF-f_middle.01.R
+      parentName: DEF-hand.R
+      position: {x: -0.0002219379, y: 0.0016914326, z: 0.000223509}
+      rotation: {x: 0.023684703, y: 0.82864994, z: 0.019519623, w: 0.5589253}
+      scale: {x: 1.0000008, y: 1.0000005, z: 1.0000002}
+    - name: DEF-f_middle.02.R
+      parentName: DEF-f_middle.01.R
+      position: {x: -1.4901161e-10, y: 0.00070524105, z: 0.0000000048056243}
+      rotation: {x: 0.037934728, y: 0.0016258059, z: -0.005648704, w: 0.9992629}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000005}
+    - name: DEF-f_middle.03.R
+      parentName: DEF-f_middle.02.R
+      position: {x: -7.45058e-10, y: 0.0005252704, z: 0.0000000029429792}
+      rotation: {x: 0.031078283, y: -0.00019726374, z: 0.02654823, w: 0.99916434}
+      scale: {x: 1, y: 0.9999999, z: 1.0000001}
+    - name: DEF-f_middle.03.R_end
+      parentName: DEF-f_middle.03.R
+      position: {x: -0, y: 0.00040328814, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DEF-thumb.01.R
+      parentName: DEF-hand.R
+      position: {x: 0.0004430142, y: 0.00037162265, z: 0.0005322179}
+      rotation: {x: 0.118831284, y: 0.88342375, z: 0.38183, w: -0.24422826}
+      scale: {x: 0.9999999, y: 1.0000008, z: 1.0000007}
+    - name: DEF-thumb.02.R
+      parentName: DEF-thumb.01.R
+      position: {x: -0.0000000017136335, y: 0.00058958365, z: -0.000000001490116}
+      rotation: {x: 0.03646929, y: 0.0009895859, z: -0.0017904858, w: 0.99933267}
+      scale: {x: 1, y: 0.99999964, z: 0.9999999}
+    - name: DEF-thumb.03.R
+      parentName: DEF-thumb.02.R
+      position: {x: -0.00000000461936, y: 0.0008818028, z: 4.4703483e-10}
+      rotation: {x: 0.034255847, y: -0.00014297606, z: 0.01809858, w: 0.9992492}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000002}
+    - name: DEF-thumb.03.R_end
+      parentName: DEF-thumb.03.R
+      position: {x: -0, y: 0.00055164716, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DEF-pelvis.L
+      parentName: game_rig
+      position: {x: 6.426126e-10, y: -0.0010059412, z: 0.018016566}
+      rotation: {x: 0.31419864, y: 0.26025245, z: 0.8019693, w: 0.43634078}
+      scale: {x: 1, y: 0.9999998, z: 0.9999998}
+    - name: DEF-thigh.L
+      parentName: DEF-pelvis.L
+      position: {x: 0.0003848342, y: 0.002073253, z: -0.0006484608}
+      rotation: {x: 0.458081, y: -0.4512325, z: 0.761196, w: -0.08444873}
+      scale: {x: 0.9999998, y: 0.9999997, z: 0.9999999}
+    - name: DEF-thigh.L.001
+      parentName: DEF-thigh.L
+      position: {x: 5.587935e-10, y: 0.0048407535, z: -5.7742e-10}
+      rotation: {x: 0.000000037252903, y: -0.00000010803342, z: -0.000000044703484,
+        w: 1}
+      scale: {x: 0.9999999, y: 1.0000006, z: 1.0000005}
+    - name: DEF-shin.L
+      parentName: DEF-thigh.L.001
+      position: {x: -1.862645e-10, y: 0.0048407586, z: 2.9802322e-10}
+      rotation: {x: 0.08931003, y: -0.00000018270374, z: -0.000000024728262, w: 0.9960039}
+      scale: {x: 0.9999999, y: 1.0000004, z: 1.0000004}
+    - name: DEF-shin.L.001
+      parentName: DEF-shin.L
+      position: {x: 5.2154064e-10, y: 0.00394268, z: 1.11758706e-10}
+      rotation: {x: 0.00000006705522, y: -0.000000029401132, z: 0.000000047519173,
+        w: 1}
+      scale: {x: 0.9999998, y: 1.0000004, z: 1.0000004}
+    - name: DEF-foot.L
+      parentName: DEF-shin.L.001
+      position: {x: -2.2351741e-10, y: 0.0039426773, z: -5.5879353e-11}
+      rotation: {x: -0.52328813, y: -0.035872106, z: -0.08334093, w: 0.8473116}
+      scale: {x: 0.99999994, y: 1.0000005, z: 1.0000005}
+    - name: DEF-toe.L
+      parentName: DEF-foot.L
+      position: {x: -3.7893848e-11, y: 0.0023057333, z: 1.5131604e-10}
+      rotation: {x: 0.000047380097, y: 0.9612488, z: -0.2756825, w: -0.00016622804}
+      scale: {x: 0.9999997, y: 0.9999999, z: 0.9999997}
+    - name: DEF-toe.L_end
+      parentName: DEF-toe.L
+      position: {x: -0, y: 0.0011988452, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DEF-pelvis.R
+      parentName: game_rig
+      position: {x: -6.426126e-10, y: -0.0010059412, z: 0.018016566}
+      rotation: {x: 0.31419864, y: -0.26025245, z: -0.8019693, w: 0.43634078}
+      scale: {x: 1, y: 0.9999998, z: 0.9999998}
+    - name: DEF-thigh.R
+      parentName: DEF-pelvis.R
+      position: {x: -0.0003848342, y: 0.002073253, z: -0.0006484608}
+      rotation: {x: 0.458081, y: 0.4512325, z: -0.761196, w: -0.08444873}
+      scale: {x: 0.9999998, y: 0.9999997, z: 0.9999999}
+    - name: DEF-thigh.R.001
+      parentName: DEF-thigh.R
+      position: {x: -4.0978193e-10, y: 0.0048407535, z: -5.9604643e-10}
+      rotation: {x: 0.000000037252903, y: 0.00000010803342, z: 0.000000044703484,
+        w: 1}
+      scale: {x: 0.9999999, y: 1.0000006, z: 1.0000005}
+    - name: DEF-shin.R
+      parentName: DEF-thigh.R.001
+      position: {x: -4.0978193e-10, y: 0.0048407586, z: 3.72529e-10}
+      rotation: {x: 0.08931003, y: 0.00000018270374, z: 0.000000024728262, w: 0.9960039}
+      scale: {x: 0.9999999, y: 1.0000004, z: 1.0000004}
+    - name: DEF-shin.R.001
+      parentName: DEF-shin.R
+      position: {x: -0.0000000017136335, y: 0.00394268, z: 3.72529e-10}
+      rotation: {x: 0.00000006705522, y: 0.000000029401132, z: -0.000000047519173,
+        w: 1}
+      scale: {x: 0.9999998, y: 1.0000004, z: 1.0000004}
+    - name: DEF-foot.R
+      parentName: DEF-shin.R.001
+      position: {x: -3.72529e-10, y: 0.0039426778, z: 1.8626451e-11}
+      rotation: {x: -0.52328813, y: 0.035872106, z: 0.08334093, w: 0.8473116}
+      scale: {x: 0.99999994, y: 1.0000005, z: 1.0000005}
+    - name: DEF-toe.R
+      parentName: DEF-foot.R
+      position: {x: -5.581526e-10, y: 0.0023057333, z: 1.5131377e-10}
+      rotation: {x: -0.000047380097, y: 0.9612488, z: -0.2756825, w: 0.00016622804}
+      scale: {x: 0.9999997, y: 0.9999999, z: 0.9999997}
+    - name: DEF-toe.R_end
+      parentName: DEF-toe.R
+      position: {x: -0, y: 0.0011988452, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: game_rig
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
